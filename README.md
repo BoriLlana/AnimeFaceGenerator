@@ -1,5 +1,5 @@
 # Anime Face Generator using GANs
-Contributors: Colaneri Timothy, Borano Llana.
+Contributors: Timothy Colaneri, Borano Llana.
 
 CSC561 Final Project: Anime Face Generator using GANs.
 
