@@ -10,4 +10,5 @@ Load it into your own workspace:
 `from datasets import load_dataset`
 `dataset = load_dataset("DrishtiSharma/Anime-Face-Dataset")`
 
-You may need to install datasets too: `pip install datasets`
+You may need to install datasets too: `pip install datasets` into your terminal or `!pip install datasets` into your python notebooks.
+
